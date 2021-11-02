@@ -3,7 +3,7 @@
 # n2proxy
 
 [n2proxy] is a [reverse proxy] for detecting and filtering suspicious  data including [xss], [SQL injection] or any matchable pattern in a URL or HTTP post body.
-
+This is basically a WAF.
 
 **Install**
 ```bash
